@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Black Technology LinkedIn Banner](https://github.com/user-attachments/assets/6ef27664-5fc5-4b8c-b1b5-4cb562c48821)
+
 
 <!--
 **Vaibhav-Kulkarni-4/Vaibhav-Kulkarni-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
